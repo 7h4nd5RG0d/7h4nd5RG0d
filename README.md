@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @7h4nd5RG0d
-- 👀 I’m interested in Cryptography
+- 👀 I’m interested in Cryptography/DFIR/Networking
 - 🌱 Proramming Languages: Python,C++,C,Java,Go,ARM-Cortex
-- 💞️ I’m looking to collaborate on any project that uses cryptography
+- 💞️ I’m looking to collaborate on any project that uses Cryptography/DFIR/Networking
 - 📫 
 
 <!---
