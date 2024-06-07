@@ -1,9 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Divyanshu Gupta a.k.a 7h4nd5R\_G0d.  
- 
-====================================================================================================================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Divynashu Gupta a.k.a 7h4nd5R\_G0d. a student of IIT Roorkee
+====================================================================================================================================================================================
 
-DFIR, Networking and Cryptography Enthusiast  
-I am a student of IIT Roorkee. 
+DFIR, Networking and Cryptography Enthusiast
 --------------------------------------------
 
 * 🌍  I'm based in India
